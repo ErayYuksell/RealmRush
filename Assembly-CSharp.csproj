@@ -61,6 +61,8 @@
     <Compile Include="Assets\Tile\WayPoint.cs" />
     <Compile Include="Assets\Tile\CoordinateLabel.cs" />
     <Compile Include="Assets\Enemy\EnemyMovement.cs" />
+    <Compile Include="Assets\Tower\TergetLocater.cs" />
+    <Compile Include="Assets\Enemy\EnemyHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AssetsPack\TextMesh Pro\Shaders\TMPro.cginc" />
